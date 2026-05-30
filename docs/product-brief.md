@@ -1,6 +1,6 @@
 # German Coach App — Product & UX Brief
 > Living document. Last updated after UX brainstorm session 1-4.
-> For internal use between me and Eleni Perperidou. Drop questions into GitHub Issues.
+> For internal use.
 
 ---
 
